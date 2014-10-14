@@ -11,7 +11,7 @@
 
 @interface MasterViewController ()
 
-@property NSMutableArray *objects;
+@property NSMutableArray *objects;//1111111111111
 @end
 //11111111111111
 @implementation MasterViewController
