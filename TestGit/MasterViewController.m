@@ -13,11 +13,7 @@
 
 @property NSMutableArray *objects;//1111111111111
 @end
-<<<<<<< HEAD
-//111111111111111111111
-=======
-//11111111111111
->>>>>>> 1d27e1830d1e30e9d6cedc9d68d00d27b6f8182e
+
 @implementation MasterViewController
 
 - (void)awakeFromNib {
