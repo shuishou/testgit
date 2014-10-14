@@ -8,11 +8,11 @@
 
 #import "AppDelegate.h"
 #import "DetailViewController.h"
-
+// Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
 @interface AppDelegate ()
-
+// Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
 @end
-
+// Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
 @implementation AppDelegate
 
 
