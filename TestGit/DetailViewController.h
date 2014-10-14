@@ -12,6 +12,6 @@
 
 @property (strong, nonatomic) id detailItem;
 @property (weak, nonatomic) IBOutlet UILabel *detailDescriptionLabel;
-
+//11111111111111
 @end
 
